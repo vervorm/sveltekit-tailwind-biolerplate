@@ -1,5 +1,3 @@
-# create-svelte
-
 # ************************************
 # DO NOT CHANGE OR WORK ON THIS BRANCH
 # I'm NOT KIDDING
